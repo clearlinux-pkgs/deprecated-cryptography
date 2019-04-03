@@ -1,0 +1,25 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+asn1crypto-python
+cffi
+cffi
+cryptography_vectors
+enum34
+idna
+ipaddress
+iso8601
+openssl-dev
+packaging
+pretend
+pyparsing
+python-dev
+pytz
+hypothesis-python
+asn1crypto-python
+hypothesis-legacypython
+deprecated-asn1crypto-legacypython
+attrs-python
+deprecated-attrs-legacypython
+deprecated-cffi-legacypython
+pycparser-legacypython
+setuptools-legacypython

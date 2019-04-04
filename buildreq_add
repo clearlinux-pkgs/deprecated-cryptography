@@ -16,10 +16,10 @@ python-dev
 pytz
 hypothesis-python
 asn1crypto-python
-hypothesis-legacypython
+deprecated-hypothesis-legacypython
 deprecated-asn1crypto-legacypython
 attrs-python
 deprecated-attrs-legacypython
 deprecated-cffi-legacypython
-pycparser-legacypython
+deprecated-pycparser-legacypython
 setuptools-legacypython
